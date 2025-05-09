@@ -7,10 +7,8 @@ https://drive.google.com/file/d/11apEtI4vaCOp-PbRFJID3x9CtNPl_4zT/view?usp=shari
 
 Before running the code, install the required Python packages:
 
-```bash
-pip install \
-  numpy==1.23.5 \
-  pandas==2.0.3 \
-  scikit-learn==1.3.2 \
-  causal-learn==0.1.4.1 \
-  notears==3.0
+numpy==1.23.5 
+pandas==2.0.3 
+scikit-learn==1.3.2 
+causal-learn==0.1.4.1 
+notears==3.0
